@@ -3,18 +3,21 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# Express NodeJS
 
 ## Description
 
 TOD: Replace this with at least a few paragraphs describing your project.
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+The files are placed inside of the upload folder. From there, there is a views folder that has a header, footer, and main page that make up the actual page. 
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+Step 1. Run 'npm i' to get all the dependencies for this project
+Step 2. In the command line, type 'node app.js'
+Step 3. Grab the port number from the ouput
+Step 4. In a web browser, go to localhost::<port number>
 
 ## Presentation
 
