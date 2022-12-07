@@ -7,6 +7,8 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
+Express is simple and easy to use web application framework. We decided on this framework because we wanted to dive deeper into web development, as well as strengthen our skills in javascript and embedded javascript.
+
 Our project are web pages that serve as a to-do list for daily tasks and work tasks. These pages utilize javascript, embedded javascript, and css and run on a localhost server at localhost:3000 and localhost:3000/work. You can add your own tasks to these lists to keep of track of what you need to work on.
 
 ## Repository Organization
