@@ -14,20 +14,35 @@ See [instructions.md](instructions.md) for submission instructions.
 This README file, the text for our script, and the instructions for this miniproject are in the root directory of this repository. The files for the web pages are placed inside of the upload folder. From there, there is a views folder that has a header (header.js), footer (footer.js), and main page (list.js) that make up the actual page. The package.json contains our dependencies for app.js (includes date.js, which has functions to get the current date), which is the js file that needs to be run in order to start the server. The css file to style the web pages (styles.css) are stored in upload/public/css.
 
 upload
+
     - public
+    
         - css
+        
             - styles.css
+            
     - views
+    
         - footer.ejs
+        
         - header.ejs
+        
         - list.ejs
+        
     - app.js
+    
     - date.js
+    
     - index.html
+    
     - package-lock.json
+    
     - package.json
+    
 README.md
+
 instructions.md
+
 script.txt
 
 ## Building and Testing Instructions
