@@ -7,7 +7,7 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-
+Our project are web pages that serve as a to-do list for daily tasks and work tasks. These pages utilize javascript, embedded javascript, and css and run on a localhost server at localhost:3000 and localhost:3000/work. You can add your own tasks to these lists to keep of track of what you need to work on.
 
 ## Repository Organization
 
