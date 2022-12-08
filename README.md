@@ -70,5 +70,5 @@ Another page to look at is localhost:3000/work, and you can do the same thing as
 TODO: Update the following links and remove this line.
 
 - YouTube: https://www.youtube.com/watch?v=-2FX_RooKZI. (Couldn't add video to class playlist, but uploaded it to youtube)
-- Script: [script.txt](script.txt)
+- Script: [script.md](script.md)
 - Recording: Our file size was to big to upload to github.
