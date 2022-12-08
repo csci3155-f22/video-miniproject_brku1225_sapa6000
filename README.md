@@ -69,7 +69,7 @@ Another page to look at is localhost:3000/work, and you can do the same thing as
 
 TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://www.youtube.com/watch?v=-2FX_RooKZI.
 - Script: [script.txt](script.txt)
 - Recording: [recording.mp4](recording.mp4).
 - Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
